@@ -32,3 +32,22 @@ Student Marks Analyzer is a Python project designed to analyze student marks and
 ## 🚧 Project Status
 
 Currently in development. Features will be added as the project grows.
+
+## How to Run
+
+### Requirements
+- Python 3 installed
+
+### Steps
+1. Download or clone this repository.
+2. Open the project folder in VS Code.
+3. Open the terminal.
+4. Run the following command:
+
+   python student_analyzer.py
+
+### Features
+- Calculates total marks and average.
+- Calculates percentage.
+- Assigns grades based on percentage.
+- Finds the class average and top performer.
